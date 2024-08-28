@@ -1,8 +1,13 @@
-## 1.1.6 - 25/012/2023
+## 1.1.8 - 28/08/2024
+
+* Bump intl from 0.18.0 to 0.19.0
+* Bump very_good_analysis from 4.0.0+1 to 5.1.0
+
+## 1.1.6 - 25/12/2023
 
 * fix position for non selected day
 
-## 1.1.6 - 25/012/2023
+## 1.1.6 - 25/12/2023
 
 * fixed overflow for non selected day
 
